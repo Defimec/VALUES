@@ -367,23 +367,6 @@
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_SAI.svg"
     },
     {
-      "chainId": 3,
-      "address": "0xc7ad46e0b8a400bb3c915120d284aafba8fc4735",
-      "name": "Dai Stablecoin",
-      "symbol": "DAI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
-    },
-    {
-      "chainId": 3,
-      "address": "0xD794aF8154d5fB990E2BEdbC776d2e56760a646e",
-      "name": "BILAL TOKEN",
-      "symbol": "BLL",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
-    },
-    
-    {
       "chainId": 4,
       "address": "0xddea378A6dDC8AfeC82C36E9b0078826bf9e68B6",
       "name": "0x Protocol Token",
@@ -409,7 +392,7 @@
     },
     {
       "chainId": 4,
-      "address": "0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa",
+      "address": "0xc7ad46e0b8a400bb3c915120d284aafba8fc4735",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
