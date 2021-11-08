@@ -400,6 +400,14 @@
     },
     {
       "chainId": 4,
+      "address": "0xD794aF8154d5fB990E2BEdbC776d2e56760a646e",
+      "name": "BILAL TEKIN",
+      "symbol": "BLL",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+    },
+    {
+      "chainId": 4,
       "address": "0xD9BA894E0097f8cC2BBc9D24D308b98e36dc6D02",
       "name": "Tether USD",
       "symbol": "USDT",
